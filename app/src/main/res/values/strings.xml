@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="heading_rate">Rate Us!!</string>
+    <string name="heading_cheatSheet">Download Cheat Sheets</string>
+    <string name="heading_coding">Create your codes</string>
+    <string name="heading_quiz">Test your Skills</string>
+    <string name="heading_learn">Learn New Courses</string>
+</resources>
